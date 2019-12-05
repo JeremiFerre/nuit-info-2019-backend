@@ -1,0 +1,9 @@
+[submodule "cuf-secret"]
+	path = cuf-secret
+	url = git@github.com:JeremiFerre/cuf-secret.git
+[submodule "cuf-game"]
+	path = cuf-game
+	url = git@github.com:JeremiFerre/cuf-game.git
+[submodule "cuf-video"]
+	path = cuf-video
+	url = git@github.com:JeremiFerre/cuf-video.git
